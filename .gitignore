@@ -1,0 +1,15 @@
+# Build results
+bin/
+obj/
+/packages/
+
+# Rider / Visual Studio
+.idea/
+*.DotSettings.user
+riderModule.iml
+/_ReSharper.Caches/
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
